@@ -1,14 +1,28 @@
-layout_spectrum: 0.38223612564615905
+name: Intreccio
+favicon: null
+layout_spectrum: 0.24874
 typography_spectrum: 0.8112099720165133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.09530386561527848
-  lightness: 0.32239482132717967
-  saturation: 0.6763669073116034
-  rhythmicContrast: 0.8790286695584655
   brandColors:
     - '#FFFFFF'
     - '#95D6FE'
     - '#575A61'
     - '#6A9CCD'
     - '#0F1628'
-name: Intreccio
+  brandStrength: 0.09530386561527848
+  lightness: 0.32239482132717967
+  saturation: 0.6763669073116034
+  rhythmicContrast: 0.8790286695584655
+purpose: []
