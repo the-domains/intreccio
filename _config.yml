@@ -1,20 +1,8 @@
-title: Intreccio Giant Knitting
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.24874
-favicon: null
 name: Intreccio
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.24874
+typography_spectrum: 0.8112099720165133
+title: Intreccio Giant Knitting
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.875
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.2425532
   brandColors:
     - '#FFFFFF'
     - '#95D6FE'
     - '#575A61'
     - '#6A9CCD'
     - '#0F1628'
-typography_spectrum: 0.8112099720165133
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.2425532
+purpose: []
