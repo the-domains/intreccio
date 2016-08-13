@@ -1,6 +1,6 @@
 name: Intreccio
 favicon: null
-layout_spectrum: 0.75228
+layout_spectrum: 0.75632
 typography_spectrum: 0.76672
 title: Intreccio Giant Knitting
 cta:
@@ -22,7 +22,7 @@ color:
     - '#406150'
     - '#8f9186'
     - '#fff05c'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.32239482132717967
   saturation: 0.6763669073116034
   rhythmicContrast: 0.5
