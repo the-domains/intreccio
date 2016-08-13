@@ -36,6 +36,6 @@ color:
     - '#0F1628'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.2425532
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
