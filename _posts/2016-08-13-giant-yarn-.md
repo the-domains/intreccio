@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: GIANT YARN -
-datePublished: '2016-08-13T21:08:49.848Z'
-dateModified: '2016-08-13T21:08:12.474Z'
+datePublished: '2016-08-13T21:17:58.582Z'
+dateModified: '2016-08-13T21:08:57.587Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-13-giant-yarn-.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-13-giant-yarn-.md
 url: giant-yarn-/index.html
 _type: Article
 
@@ -35,51 +35,25 @@ Like any fiber, wool roving has its pluses & minuses. Here's a brief rundown:
 PROS
 
 * luxurious
-
 * big enough to create a solid fabric even with GIANT knitting needles 
-
 * available in endless colors from neutrals to vibrant shades
-
 * can be so very soft & fluffy (note: 23 micron wool is lovely and 19 micron wool is even lovelier)
-
 * creates impressive stitches and inviting finished products
-
 * makes quick work of what is typically a very time-consuming endeavor
-
 * will make your living room look like it belongs in a magazine
-
 * can be used with GIANT knitting needles OR arms
 
 CONS
 
 * can be expensive (but only relatively so - ten pounds of roving can be considerably less expensive than ten pounds of spun yarn)
-
 * limited availability (though this may change as GIANT knitting continues to grow)
-
 * lower quality roving can be scratchy (stick with 19 & 23 micron roving to be safe!)
-
-* requires dry cleaning as washing it with soap & water will[
-
-felt][0]
-
-the fiber
-
+* requires dry cleaning as washing it with soap & water will[felt][0] the fiber
 * finished products, especially blankets, can be quite heavy
-
-* shedding & pilling
-
-\*
-
+* shedding & pilling\*
 * warping - as with traditional knitting, the looser the stitches, the less stable the shape of the finished product - meaning your rectangle blanket may shapeshift into a rounded square over time
-
-* occasionally roving will arrive with breaks that need to be tied or, better yet, felted together in order to continue knitting with one long strand  (splits & tears can also occur after the roving has been knitted if, for instance, something gets caught in the stitches -[
-
-needle felting][1]
-
-is generally the best way to address all these issues)
-
+* occasionally roving will arrive with breaks that need to be tied or, better yet, felted together in order to continue knitting with one long strand (splits & tears can also occur after the roving has been knitted if, for instance, something gets caught in the stitches -[needle felting][1] is generally the best way to address all these issues)
 * roving is a raw material that generally comes directly from a mill, so the fiber is sometimes not quite as clean as processed, spun yarn - often bits of hay, dirt, or other colored fibers will get mixed into the roving so you may need to spend some time picking out each individual bit of foreign material from your fiber before, during, and even after knitting with it (it may be worth spending a bit more if your supplier is willing to do this for you so all you need to concentrate on is your big, beautiful project!)
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2fe25a-ee5c-4dae-bc55-bbba53e328c1.jpg)
 
   
