@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: What is wool roving and should I knit with it?
-datePublished: '2016-08-13T21:44:21.794Z'
-dateModified: '2016-08-13T21:37:57.826Z'
+description: ' What is wool roving and should I knit with it?'
+datePublished: '2016-08-13T22:03:10.712Z'
+dateModified: '2016-08-13T22:02:59.380Z'
 title: ''
 author: []
 via: {}
