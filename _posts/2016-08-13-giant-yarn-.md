@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: BLOG POST - What is wool roving and should I knit with it?
-datePublished: '2016-08-13T22:31:09.181Z'
-dateModified: '2016-08-13T22:30:56.544Z'
+datePublished: '2016-08-13T22:46:13.263Z'
+dateModified: '2016-08-13T22:31:16.730Z'
 title: ''
 author: []
 via: {}
