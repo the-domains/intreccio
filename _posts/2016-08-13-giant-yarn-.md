@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' What is wool roving and should I knit with it?'
-datePublished: '2016-08-13T22:03:10.712Z'
-dateModified: '2016-08-13T22:02:59.380Z'
+description: BLOG POST - What is wool roving and should I knit with it?
+datePublished: '2016-08-13T22:31:09.181Z'
+dateModified: '2016-08-13T22:30:56.544Z'
 title: ''
 author: []
 via: {}
@@ -18,7 +18,7 @@ url: giant-yarn-/index.html
 _type: Article
 
 ---
-**What is wool roving and should I knit with it?**
+**BLOG POST - What is wool roving and should I knit with it?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aa2494e-365b-47ea-a7e1-9131c9e5ec1f.jpg)
 
 In the early 2000's the knitting world was turned on its head by a handful of badass knitters whose aim it was to shake up our antiquated view of what knitting had to be - to inspire knitters to get out of their boxes, to get creative, to put a skull & crossbones where a snowflake might once have gone, to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to be sexy, to stitch and, of course, to bitch.
