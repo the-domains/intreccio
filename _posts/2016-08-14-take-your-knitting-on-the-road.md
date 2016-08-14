@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T05:20:10.489Z'
-dateModified: '2016-08-14T05:19:51.317Z'
+datePublished: '2016-08-14T05:22:06.718Z'
+dateModified: '2016-08-14T05:22:01.070Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
+sourcePath: _posts/2016-08-14-take-your-knitting-on-the-road.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-14-take-your-knitting-on-the-road.md
 url: take-your-knitting-on-the-road/index.html
 _type: Article
 
