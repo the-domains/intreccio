@@ -4,7 +4,7 @@
         <description><![CDATA[Intreccio Giant Knitting]]></description>
         <link>http://intreccioknittingneedles.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 05:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 05:27:16 GMT</lastBuildDate>
         <atom:link href="http://intreccioknittingneedles.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Make any winter coat come ALIVE!]]></title>
@@ -12,6 +12,13 @@
             <link>http://intreccioknittingneedles.com/this-one-thing-will-make-any-winter-coat-come-alive/index.html</link>
             <guid isPermaLink="false">4daddb52-885c-41db-9371-af9b7d826e44</guid>
             <pubDate>Sun, 14 Aug 2016 05:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turning Yarn Into Yarn]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bae7b0b-c884-4fa6-a1b6-830871e69a78.jpg">]]></description>
+            <link>http://intreccioknittingneedles.com/turning-yarn-into-yarn/index.html</link>
+            <guid isPermaLink="false">91be78b1-02b5-43dd-9ae0-3bf7efc316e3</guid>
+            <pubDate>Sun, 14 Aug 2016 05:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just Sittin on top of a ball, wasting time]]></title>
@@ -68,13 +75,6 @@
             <link>http://intreccioknittingneedles.com/a-tool-of-beauty/index.html</link>
             <guid isPermaLink="false">b9fbad28-4d1e-4901-b6ac-0da3af6afc08</guid>
             <pubDate>Sun, 14 Aug 2016 05:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Before You Go & Get Felt Up...]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa8efab5-85b1-4b2f-9599-0990349e4932.jpg">]]></description>
-            <link>http://intreccioknittingneedles.com/before-you-go-and-get-felt-up/index.html</link>
-            <guid isPermaLink="false">8eef8421-7755-413a-aefa-150d497de759</guid>
-            <pubDate>Sun, 14 Aug 2016 04:48:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
