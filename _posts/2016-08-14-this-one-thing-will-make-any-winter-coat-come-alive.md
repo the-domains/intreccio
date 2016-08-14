@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T05:07:43.099Z'
-dateModified: '2016-08-14T05:07:28.059Z'
+datePublished: '2016-08-14T05:08:07.050Z'
+dateModified: '2016-08-14T05:07:48.859Z'
 title: ''
 author: []
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-08-14-this-one-thing-will-make-any-winter-coat-come-alive.md
+starred: true
 url: this-one-thing-will-make-any-winter-coat-come-alive/index.html
 _type: Article
 
