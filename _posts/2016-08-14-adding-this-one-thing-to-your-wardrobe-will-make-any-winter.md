@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chunky Knit Scarf
-datePublished: '2016-08-14T04:15:31.929Z'
-dateModified: '2016-08-14T04:15:23.365Z'
+datePublished: '2016-08-14T04:19:37.835Z'
+dateModified: '2016-08-14T04:19:27.973Z'
 title: Adding this one thing to your wardrobe will make any winter coat POP!
 author:
   - name: By Emilie Odeille
