@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -11,8 +11,8 @@ description: >-
   creative, to put a skull & crossbones where a snowflake might once have gone,
   to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to
   be sexy, to stitch and, of course, to bitch.
-datePublished: '2016-08-14T00:47:59.435Z'
-dateModified: '2016-08-14T00:47:54.793Z'
+datePublished: '2016-08-14T04:28:46.577Z'
+dateModified: '2016-08-14T04:28:40.655Z'
 title: ''
 author: []
 via: {}
