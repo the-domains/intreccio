@@ -5,14 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T05:08:07.050Z'
-dateModified: '2016-08-14T05:07:48.859Z'
+datePublished: '2016-08-14T05:10:56.056Z'
+dateModified: '2016-08-14T05:10:50.183Z'
 title: ''
-author: []
+author:
+  - name: By Emilie Odeile
+    url: ''
 via: {}
-authors: []
-publisher: {}
 sourcePath: _posts/2016-08-14-this-one-thing-will-make-any-winter-coat-come-alive.md
+authors: []
+publisher:
+  name: Intreccio
+  domain: null
+  url: ''
+  favicon: null
 starred: true
 url: this-one-thing-will-make-any-winter-coat-come-alive/index.html
 _type: Article
