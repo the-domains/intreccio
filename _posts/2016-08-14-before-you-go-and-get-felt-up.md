@@ -5,17 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T04:26:00.464Z'
-dateModified: '2016-08-14T04:25:55.188Z'
+datePublished: '2016-08-14T04:31:25.566Z'
+dateModified: '2016-08-14T04:31:20.059Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-14-before-you-go-and-get-felt-up.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: before-you-go-and-get-felt-up/index.html
