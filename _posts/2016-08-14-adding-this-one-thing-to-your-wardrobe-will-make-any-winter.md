@@ -5,15 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T01:03:15.709Z'
-dateModified: '2016-08-14T01:00:40.867Z'
-title: ''
-author: []
+datePublished: '2016-08-14T01:28:14.685Z'
+dateModified: '2016-08-14T01:24:10.908Z'
+title: Adding this one thing to your wardrobe will make any winter coat POP!
+author:
+  - name: Emilie Odeille
+    url: 'https://www.etsy.com/shop/Intreccio?ref=hdr_shop_menu'
 via: {}
-authors: []
-publisher: {}
 sourcePath: >-
   _posts/2016-08-14-adding-this-one-thing-to-your-wardrobe-will-make-any-winter.md
+authors: []
+publisher:
+  name: Intreccio
+  domain: null
+  url: 'https://www.etsy.com/shop/Intreccio?ref=hdr_shop_menu'
+  favicon: null
 starred: true
 url: adding-this-one-thing-to-your-wardrobe-will-make-any-winter/index.html
 _type: Article
