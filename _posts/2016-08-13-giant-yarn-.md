@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
@@ -11,17 +11,19 @@ description: >-
   creative, to put a skull & crossbones where a snowflake might once have gone,
   to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to
   be sexy, to stitch and, of course, to bitch.
-datePublished: '2016-08-14T04:28:46.577Z'
-dateModified: '2016-08-14T04:28:40.655Z'
+datePublished: '2016-08-14T04:44:48.819Z'
+dateModified: '2016-08-14T04:44:40.577Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-13-giant-yarn-.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: giant-yarn-/index.html
