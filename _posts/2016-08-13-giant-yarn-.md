@@ -11,14 +11,18 @@ description: >-
   creative, to put a skull & crossbones where a snowflake might once have gone,
   to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to
   be sexy, to stitch and, of course, to bitch.
-datePublished: '2016-08-14T00:07:07.427Z'
-dateModified: '2016-08-14T00:02:30.863Z'
+datePublished: '2016-08-14T00:47:59.435Z'
+dateModified: '2016-08-14T00:47:54.793Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-13-giant-yarn-.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: giant-yarn-/index.html
 _type: Article
@@ -32,7 +36,7 @@ The knitting world is changing once again. It's growing not only in popularity a
 
 Like any fiber, wool roving has its pluses & minuses. Here's a brief rundown:
 
-PROS
+**PROS**
 
 * luxurious
 * big enough to create a solid fabric even with GIANT knitting needles 
@@ -43,7 +47,7 @@ PROS
 * will make your living room look like it belongs in a magazine
 * can be used with GIANT knitting needles OR arms
 
-CONS
+**CONS**
 
 * can be expensive (but only relatively so - ten pounds of roving can be considerably less expensive than ten pounds of spun yarn)
 * limited availability (though this may change as GIANT knitting continues to grow)
