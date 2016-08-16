@@ -1,9 +1,17 @@
 ---
+datePublished: '2016-08-16T23:27:00.460Z'
+sourcePath: _posts/2016-08-13-giant-yarn-.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-16T23:26:59.961Z'
+title: ''
+publisher: {}
 description: >-
   In the early 2000's the knitting world was turned on its head by a handful of
   badass knitters whose aim it was to shake up our antiquated view of what
@@ -11,20 +19,8 @@ description: >-
   creative, to put a skull & crossbones where a snowflake might once have gone,
   to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to
   be sexy, to stitch and, of course, to bitch.
-datePublished: '2016-08-14T04:44:48.819Z'
-dateModified: '2016-08-14T04:44:40.577Z'
-title: ''
-author:
-  - name: ''
-    url: ''
-via: {}
-sourcePath: _posts/2016-08-13-giant-yarn-.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+inLanguage: null
+inNav: false
 starred: false
 url: giant-yarn-/index.html
 _type: Article
@@ -34,14 +30,14 @@ _type: Article
 
 In the early 2000's the knitting world was turned on its head by a handful of badass knitters whose aim it was to shake up our antiquated view of what knitting had to be - to inspire knitters to get out of their boxes, to get creative, to put a skull & crossbones where a snowflake might once have gone, to use fuzzy eyelash yarn or metallic tape yarn in place of Shetland Wool, to be sexy, to stitch and, of course, to bitch.
 
-The knitting world is changing once again. It's growing not only in popularity as men & women of all ages discover the creative, meditative, and badass benefits of knitting & purling, but it's growing in scale, too. As knitting needles get bigger & bigger, so too must yarn. While almost any yarn, string, or rope may be used in GIANT knitting, the most popular yarn of the moment hasn't even been made into yarn yet! The fiber is called wool roving. It's a raw, unspun wool that looks a bit like cotton candy before it's spun into more traditional yarn typically found in stores. This soft & fluffy fiber is likely what you've been seeing all over your Pinterest feed in the form of big-knit cozy scarves and GIANT luxurious blankets whose stitches may have you feeling like a tiny Alice in a GIANT Wonderland. 
+The knitting world is changing once again. It's growing not only in popularity as men & women of all ages discover the creative, meditative, and badass benefits of knitting & purling, but it's growing in scale, too. As knitting needles get bigger & bigger, so too must yarn. While almost any yarn, string, or rope may be used in GIANT knitting, the most popular yarn of the moment hasn't even been made into yarn yet! The fiber is called wool roving. It's a raw, unspun wool that looks a bit like cotton candy before it's spun into more traditional yarn typically found in stores. This soft & fluffy fiber is likely what you've been seeing all over your Pinterest feed in the form of big-knit cozy scarves and GIANT luxurious blankets whose stitches may have you feeling like a tiny Alice in a GIANT Wonderland.
 
 Like any fiber, wool roving has its pluses & minuses. Here's a brief rundown:
 
 **PROS**
 
 * luxurious
-* big enough to create a solid fabric even with GIANT knitting needles 
+* big enough to create a solid fabric even with GIANT knitting needles
 * available in endless colors from neutrals to vibrant shades
 * can be so very soft & fluffy (note: 23 micron wool is lovely and 19 micron wool is even lovelier)
 * creates impressive stitches and inviting finished products
