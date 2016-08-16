@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T23:28:38.778Z'
+datePublished: '2016-08-16T23:48:35.559Z'
 sourcePath: _posts/2016-08-13-giant-yarn-.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-16T23:28:38.411Z'
+dateModified: '2016-08-16T23:48:35.047Z'
 title: ''
 publisher: {}
 description: >-
