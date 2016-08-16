@@ -1,20 +1,20 @@
-typography_spectrum: 0.4672079710289836
+typography_spectrum: 0.4978724
 color:
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
     - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  brandStrength: 0.6383362107444555
-  lightness: 0.3262106846086681
-  saturation: 0.6047658668830991
-  rhythmicContrast: 0.7608615264762193
+    - '#95D6FE'
+    - '#575A61'
+    - '#6A9CCD'
+    - '#0F1628'
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.1161602814681828
+layout_spectrum: 0.91633
 analytics:
   google: null
   facebook: null
@@ -28,6 +28,9 @@ navigation:
   - name: Visit our Shop
     url: 'https://www.etsy.com/shop/Intreccio?ref=hdr_shop_menu'
     type: external
+  - name: YARNAL KNOWLEDGE - "safe to share" tips on Wool Roving
+    id: beede1eb-853c-4ef8-b47e-282c1087512c
+    type: content
 favicon: null
 collections:
   - index:
