@@ -31,6 +31,9 @@ navigation:
   - name: YARNAL KNOWLEDGE - "safe to share" tips on Wool Roving
     id: beede1eb-853c-4ef8-b47e-282c1087512c
     type: content
+  - name: The Big Bad Blanket
+    id: 50de96d0-75d6-45b7-9784-b7826137e488
+    type: content
 favicon: null
 collections:
   - index:
